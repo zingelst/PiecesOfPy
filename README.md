@@ -8,3 +8,6 @@ of these as a template and customize to whatever I need it to do
 
 ## Web
 `simple_web.py` - A basic Python web server that handles reqeusts, but no file serving or anything else. Essentially a starting point for a simple REST service.
+
+## matplotlib
+`plotting.py` - A snippet of how to do some simple plotting and axis/chart formatting in matplotlib. I always forget the bits to do this correctly.
